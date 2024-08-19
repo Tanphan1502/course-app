@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Mon, 29 Jul 2024 23:48:04 at https://preview.colorlib.com/theme/academia/
+(winhttrack https://preview.colorlib.com/theme/academia/ -O "/Applications/MAMP/htdocs/course" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 45 seconds : 45 links scanned, 44 files written (11185647 bytes overall) [10639249 bytes received at 236427 bytes/sec], 771187 bytes transferred using HTTP compression in 25 files, ratio 25%, 15.0 requests per connection
+(No errors, 0 warnings, 0 messages)
